@@ -1,4 +1,4 @@
-# <img src="images\Apocalypse.png" style="zoom:10%;" />
+# <img src="images\Apocalypse.png" style="zoom:5%;" />
 
 # 天启安全系统
 
