@@ -18,7 +18,7 @@
 
     
     VMware版 https://pan.baidu.com/s/17K-GSw2tF2ZfLMdH7KfpSg?pwd=vmof 
-**`所有镜像包含开发环境，AV环境以及纯洁系统环境`**
+**`所有镜像包含开发环境，AV环境以及纯净系统环境`**
 
     链接：https://pan.baidu.com/s/1ZFVVDXPfWMdOHpqyA5xG8A?pwd=vmof 
     开发环境（Dev）：
