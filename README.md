@@ -23,7 +23,7 @@
     链接：https://pan.baidu.com/s/1ZFVVDXPfWMdOHpqyA5xG8A?pwd=vmof 
     开发环境（Dev）：
     Windows10   Apocalypse/Jinitaimei.1
-    纯洁系统（PureServer）：
+    纯净系统（PureServer）：
        CentOS764Bit root/Jinitaimei.1
        Server_2008
        Server_2012
